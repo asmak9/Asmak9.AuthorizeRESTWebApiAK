@@ -3,7 +3,7 @@
 
 ### Nuget Installation Version 1.1.8: https://www.nuget.org/packages/Asmak9.AuthorizeRESTWebApiAK/
 
-### [Purchase License Key](https://bit.ly/354pOkv) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
+### [Buy License Key](https://bit.ly/354pOkv) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
 # Basic Usage for RESTWebAPIKey class
 
