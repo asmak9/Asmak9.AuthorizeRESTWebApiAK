@@ -34,7 +34,7 @@ GlobalConfiguration.Configuration.MessageHandlers.Add(authRegObj);
 # Examples
 
 1. [ASP.NET REST Web API Basic Authorization](https://bit.ly/2pGrHVo)
-2. [Generate REST Web API Key](https://bit.ly/2XVaXcb)
+2. [Generate REST Web API Key](https://bit.ly/2KNwcVD)
 
 <br/>
 <br/>
