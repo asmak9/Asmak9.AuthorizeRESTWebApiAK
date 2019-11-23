@@ -1,7 +1,7 @@
 # ASP.NET REST Web API Basic Authorization Library
 **Asmak9.AuthorizeRESTWebApiAK** is a 30 days free trial library that provides two main classe **RESTWebAPIAuthHeaderHandler** and **RESTWebAPIKey** for REST Web API basic authorization and API Key generation facility. You can install this library via Nuget package and enjoy 30 day free trial. You can use this library into your any ASP.NET REST Web API project. REST Web API authorization i.e. apiKeyName, apiKeyValue, username, password and licensKey (By Default empty) can be set via **RESTWebAPIAuthHeaderHandler**. In order to generate API Key, create your unique password and saltKey first then pass this information to **RESTWebAPIKey** class GenerateApiKey(...) method, this method wil return your API key.
 
-### Nuget Installation Version 1.0.4: https://www.nuget.org/packages/Asmak9.AuthorizeRESTWebApiAK/1.0.3
+### Nuget Installation Version 1.1.8: https://www.nuget.org/packages/Asmak9.AuthorizeRESTWebApiAK/
 
 ### [Purchase License Key](https://bit.ly/354pOkv) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
