@@ -47,8 +47,10 @@ Like, Share, Support, Subscribe!!!
 
 #### Website: https://www.asmak9.com/
 
+#### E-Store Bytezaar: https://www.bytezaar.com/
+
 #### Facebook: https://www.facebook.com/AK.asmak9/
 
-#### Twitter: https://twitter.com/asmak/
+#### LinkedIn: https://www.linkedin.com/company/asmak9
 
-#### LinkedIn: https://www.linkedin.com/in/asmak9/ 
+#### Twitter: https://twitter.com/asmak/
