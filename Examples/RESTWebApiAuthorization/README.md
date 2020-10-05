@@ -1,16 +1,10 @@
 # RESTWebApiAuthorization
 **RESTWebApiAuthorization** provides running solution for Integrating **Asmak9.AuthorizeRESTWebApiAK** NuGet library for **Authorizing RESTful Web API** using ASP.NET MVC platform.
 
-### Detail Article: [ASP.NET MVC: REST Web API Basic Authorization using Nuget Library](https://bit.ly/2pGrHVo)
+### Detail Article: [C#.NET: Asmak9.EssentialToolKit Library Trial Period Information](https://bit.ly/2pGrHVo)
 
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
-
-# How to Download
-
-1. Download All **ZIP** file parts.
-2. Extract **RESTWebApiAuthorization** file only.
-3. Source code files will be successfully extracted.
 
 <br/>
 <br/>
