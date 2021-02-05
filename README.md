@@ -1,5 +1,5 @@
 # Asmak9.AuthorizeRESTWebApiAK Library
-**Asmak9.AuthorizeRESTWebApiAK** is a 30 days free trial library that provides two main classe **RESTWebAPIAuthHeaderHandler** and **RESTWebAPIKey** for REST Web API basic authorization and API Key generation facility. You can install this library via Nuget package and enjoy 30 day free trial. You can use this library into your any ASP.NET REST Web API project. REST Web API authorization i.e. apiKeyName, apiKeyValue, username, password and licensKey (By Default empty) can be set via **RESTWebAPIAuthHeaderHandler**. In order to generate API Key, create your unique password and saltKey first then pass this information to **RESTWebAPIKey** class GenerateApiKey(...) method, this method wil return your API key.
+**Asmak9.AuthorizeRESTWebApiAK** is a 30 days free trial library that provides two main classe **RESTWebAPIAuthHeaderHandler** and **RESTWebAPIKey** for REST Web API basic authorization and API Key generation facility. You can install this library via Nuget package and enjoy 30 day free trial. You can use this library into your any ASP.NET REST Web API project with **.NET 4.8 framework**. REST Web API authorization i.e. apiKeyName, apiKeyValue, username, password and licensKey (By Default empty) can be set via **RESTWebAPIAuthHeaderHandler**. In order to generate API Key, create your unique password and saltKey first then pass this information to **RESTWebAPIKey** class GenerateApiKey(...) method, this method wil return your API key.
 
 ### Nuget Installation Version 1.1.8: https://www.nuget.org/packages/Asmak9.AuthorizeRESTWebApiAK/
 
@@ -8,6 +8,8 @@
 # Basic Usage for RESTWebAPIKey class
 
 ```C#
+
+using Asmak9.AuthorizeRESTWebApiAK;
 
 // Initialization.
 string myPassword = "mypassword";
@@ -22,6 +24,8 @@ string apiKey = RESTWebAPIKey.GenerateAPIKey(myPassword, mysaltKey);
 Use below code in your project **Global.asax.cs** file i.e.
 
 ```C#
+
+using Asmak9.AuthorizeRESTWebApiAK;
 
 // Initialization.
 RESTWebAPIAuthHeaderHandler authRegObj = new RESTWebAPIAuthHeaderHandler("myapiKeyName", "myapiKeyValue", "myusername", "mypassword");
